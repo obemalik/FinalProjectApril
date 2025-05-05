@@ -6,8 +6,8 @@
       <class name="Automatiofirstprojrct_april.Automatiofirstprojrct_april.AppTest">
         <methods>
           <include name="AftermyTest"/>
+          <include name="CheckTheResultsIsretrived"/>
           <include name="mySetup"/>
-          <include name="ChangeTheWebsitelanaguage"/>
         </methods>
       </class> <!-- Automatiofirstprojrct_april.Automatiofirstprojrct_april.AppTest -->
     </classes>
